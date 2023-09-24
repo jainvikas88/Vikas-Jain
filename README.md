@@ -1,5 +1,3 @@
-# Vikas-Jain
-
 # About Me
 
 With 13 years of dedicated experience in the realm of software development, I am a versatile and accomplished professional proficient in C, C++, Java, and Python. My journey in the field has been marked by a passion for problem-solving and a commitment to excellence.
